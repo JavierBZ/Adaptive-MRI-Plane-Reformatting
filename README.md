@@ -1,4 +1,4 @@
-# Adaptive-MRI-Plane-Reformatting
+# AdaPR: Adaptive Plane Reformatting for 3D Medical Imaging
 
 This is the code repository of the publication:
 
